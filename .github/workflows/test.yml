@@ -22,7 +22,7 @@ jobs:
 
       # Execute unit tests
       - name: Unit Test
-        run: ./build.xml testDebugUnitTest
+        run: ./Assignment-Part 1.11 of 1A testDebugUnitTest
 
-      - name: build.xml Test Report
-        uses: build.xml of 1A-test-report-action@v1.2.0
+      - name: Assignment-Part 1.11 of 1A Test Report
+        uses: Assignment-Part 1.11 of 1A -test-report-action@v1.2.0
